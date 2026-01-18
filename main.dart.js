@@ -88323,7 +88323,7 @@ A.Mu.prototype={
 J(a){var s,r=null,q=A.a_(a).ok.e
 q=A.bo("My Stacks",r,r,r,q==null?r:q.hN(),r)
 s=A.a_(a).ok.ax
-return A.bW(A.b([q,B.eW,A.bo("Commitment to staying updated with the latest design trends and techniques.",r,r,r,s==null?r:s.FV(B.R,1.5),r),B.l1,A.l1(new A.pJ(new A.aba(),r),1)],t.p),B.ai,B.t,B.q)}}
+return A.bW(A.b([q,B.eW,A.bo("Commitment to staying updated with the latest Software trends and techniques.",r,r,r,s==null?r:s.FV(B.R,1.5),r),B.l1,A.l1(new A.pJ(new A.aba(),r),1)],t.p),B.ai,B.t,B.q)}}
 A.aba.prototype={
 $2(a,b){var s=null,r=b.b>700?3:1,q=A.a5([null,0],t.LO,t.S)
 return new A.tD(new A.agK(r,16,16,5),new A.agI(!0,!0,!0,B.GT,q),s,B.b8,!1,s,s,B.Az,!1,s,12,B.aj,s,s,B.L,B.at,s)},
@@ -93278,7 +93278,7 @@ B.cA=s([82,9,106,213,48,54,165,56,191,64,163,158,129,243,215,251,124,227,57,130,
 B.Bn=new A.f7("logo/c-sharp.png","C#","Programing Language Tool",null)
 B.Bp=new A.f7("logo/python.png","Python","Programing Language Tool",null)
 B.Bx=new A.f7("logo/java.jpeg","JAVA","Programing Language Tool",null)
-B.Bs=new A.f7("logo/Dart.png","Dart","Programing Language Tool",null)
+B.Bs=new A.f7("logo/dart.png","Dart","Programing Language Tool",null)
 B.Bu=new A.f7("logo/flutter.png","Flutter","Development Tool",null)
 B.By=new A.f7("logo/wordpress.png","WordPress","Development & Content Management System Tool",null)
 B.Bq=new A.f7("logo/tableau.png","Tableau","Data Visualization Tool",null)
